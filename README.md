@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino, c, cs, discord, dotnet, git, github, gitlab, py, visualstudio, vscode" />
+    <img src="https://skillicons.dev/icons?i=arduino, c, cs, discord, dotnet, git, github, gitlab, py, visualstudio, vscode" >
   </a>
 </p>
