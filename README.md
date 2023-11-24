@@ -14,8 +14,8 @@
   </a>
 </p>
  <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=BwM17&show_icons=true&line_height=27&theme=tokyonight">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BwM17&hide=&theme=tokyonight">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=P3JT&show_icons=true&line_height=27&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=P3JT&hide=&theme=tokyonight">
 </p>
 
 <p align = "center">
